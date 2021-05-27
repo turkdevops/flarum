@@ -47,7 +47,7 @@
         "flarum/approval": "^0.1.0",
         "flarum/bbcode": "^0.1.0",
         "flarum/emoji": "^0.1.0",
-        "flarum/lang-english": "^0.1.0",
+        "flarum/lang-english": "^0.1.0-beta",
         "flarum/flags": "^0.1.0",
         "flarum/likes": "^0.1.0",
         "flarum/lock": "^0.1.0",

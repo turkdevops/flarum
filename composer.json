@@ -57,7 +57,7 @@
         "flarum/pusher": "^0.1.0",
         "flarum/statistics": "^0.1.0",
         "flarum/sticky": "^0.1.0",
-        "flarum/subscriptions": "^0.1.0",
+        "flarum/subscriptions": "^0.1.0-beta",
         "flarum/suspend": "^0.1.0",
         "flarum/tags": "^0.1.0"
     },

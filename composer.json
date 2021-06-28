@@ -10,31 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Franz Liedke",
-            "email": "franz@develophp.org"
-        },
-        {
-            "name": "Daniel Klabbers",
-            "email": "daniel@klabbers.email",
-            "homepage": "https://luceos.com"
-        },
-        {
-            "name": "David Sevilla Martin",
-            "email": "me+flarum@datitisev.me",
-            "homepage": "https://datitisev.me"
-        },
-        {
-            "name": "Clark Winkelmann",
-            "email": "clark.winkelmann@gmail.com",
-            "homepage": "https://clarkwinkelmann.com"
-        },
-        {
-            "name": "Matthew Kilgore",
-            "email": "matthew@kilgore.dev"
-        },
-        {
-            "name": "Alexander (Sasha) Skvortsov",
-            "email": "askvortsov@flarum.org"
+            "name": "Flarum",
+            "email": "info@flarum.org",
+            "homepage": "https://flarum.org/team"
         }
     ],
     "support": {
@@ -43,28 +21,26 @@
         "docs": "https://flarum.org/docs/"
     },
     "require": {
-        "flarum/core": "^0.1.0",
-        "flarum/approval": "^0.1.0",
-        "flarum/bbcode": "^0.1.0",
-        "flarum/emoji": "^0.1.0",
-        "flarum/lang-english": "^0.1.0",
-        "flarum/flags": "^0.1.0",
-        "flarum/likes": "^0.1.0",
-        "flarum/lock": "^0.1.0",
-        "flarum/markdown": "^0.1.0",
-        "flarum/mentions": "^0.1.0",
-        "flarum/nicknames": "^0.1.0",
-        "flarum/pusher": "^0.1.0",
-        "flarum/statistics": "^0.1.0",
-        "flarum/sticky": "^0.1.0",
-        "flarum/subscriptions": "^0.1.0",
-        "flarum/suspend": "^0.1.0",
-        "flarum/tags": "^0.1.0"
+        "flarum/core": "^1.0",
+        "flarum/approval": "*",
+        "flarum/bbcode": "*",
+        "flarum/emoji": "*",
+        "flarum/lang-english": "*",
+        "flarum/flags": "*",
+        "flarum/likes": "*",
+        "flarum/lock": "*",
+        "flarum/markdown": "*",
+        "flarum/mentions": "*",
+        "flarum/nicknames": "*",
+        "flarum/pusher": "*",
+        "flarum/statistics": "*",
+        "flarum/sticky": "*",
+        "flarum/subscriptions": "*",
+        "flarum/suspend": "*",
+        "flarum/tags": "*"
     },
     "config": {
         "preferred-install": "dist",
         "sort-packages": true
-    },
-    "minimum-stability": "beta",
-    "prefer-stable": true
+    }
 }

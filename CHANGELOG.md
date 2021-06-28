@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.0](https://github.com/flarum/flarum/compare/v0.1.0-beta.16...v1.0.0)
+
+### Changed
+- Updated constraints of core and bundled extensions for v1.0.0 stable release (https://github.com/flarum/flarum/pull/74)
+
+## [0.1.0-beta.16](https://github.com/flarum/flarum/compare/v0.1.0-beta.15...v0.1.0-beta.16)
+
+### Changed
+- Remove list of developers and refer to https://flarum.org/team (https://github.com/flarum/flarum/pull/71)
+
+### Fixed
+- Missing image on README.md (https://github.com/flarum/flarum/pull/72)
+
+## [0.1.0-beta.15](https://github.com/flarum/flarum/compare/v0.1.0-beta.14...v0.1.0-beta.15)
+
+### Added
+- Nicknames added to our bundled list (https://github.com/flarum/flarum/pull/70)
+
 ## [0.1.0-beta.14](https://github.com/flarum/flarum/compare/v0.1.0-beta.13...v0.1.0-beta.14)
 
 ### Added
